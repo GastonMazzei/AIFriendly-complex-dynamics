@@ -6,7 +6,9 @@ AI-Friendly detects phase-space points that are forbidden at t=inf
 i.e. the linealized equation on the fixed points has only strictly-positive eigenvalues. 
 
 <br>
+
 ---
+
 <h2><p align="center"><b>Generating the database</b></p></h2>
 <br>
 <b>DISCLAIMER: This section is optional as the database is provided in the repository!</b>
