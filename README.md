@@ -8,4 +8,4 @@ AI-Friendly detects phase-space points that are forbidden at t=inf
 bash generate_database.sh
 ```
 
-<img src="autovalor positivo.png">
+<img src="static/curve.png">
